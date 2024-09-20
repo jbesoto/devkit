@@ -1,0 +1,52 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.lib
+*.exe
+*.out
+
+# Dependency directories
+/build/
+/bin/
+/lib/
+/obj/
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Generated files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Coverage reports
+*.gcda
+*.gcno
+*.gcov
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Makefile generated files
+Makefile~
+Makefile.in~
+autom4te.cache/
+
+# IDE and editor files
+*.idea/
+*.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db

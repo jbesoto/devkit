@@ -1,0 +1,9 @@
+- README.md
+- .gitignore
+- LICENSE
+- include:
+  - main.h
+- src:
+  - main.c
+- tests:
+- Makefile
