@@ -5,5 +5,7 @@
   - main.h
 - src:
   - main.c
+  - foo:
+    - foo.c
 - tests:
 - Makefile
